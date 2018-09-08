@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287681584279",
+    "firebase_url": "https://khanadhoondo-adf6f.firebaseio.com",
+    "project_id": "khanadhoondo-adf6f",
+    "storage_bucket": "khanadhoondo-adf6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287681584279:android:1a20124f87d8db45",
+        "android_client_info": {
+          "package_name": "com.khanadhoondo.khanadhoondo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287681584279-k0gchr04bkpali1go7s1dq3kb1rjjtur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khanadhoondo.khanadhoondo",
+            "certificate_hash": "005c49c30b5d4452b799bfcaf4112d41c5c5769d"
+          }
+        },
+        {
+          "client_id": "287681584279-4nv3kt6omd4adpddb8fup75eupc9tqov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKK_zJaCKYhYiiPsbe8uXiaZOg2KS9R4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287681584279-4nv3kt6omd4adpddb8fup75eupc9tqov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
